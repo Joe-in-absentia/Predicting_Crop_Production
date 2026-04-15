@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/Database-SQL-green)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-Python • Streamlit • Machine Learning • SQL
+Python • SQL • Machine Learning • Streamlit
 
 ---
 
