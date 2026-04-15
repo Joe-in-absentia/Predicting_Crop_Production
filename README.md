@@ -106,7 +106,7 @@ The dashboard allows users to explore:
 
 ### 🌿 Crop Distribution Analysis
 
-![Crop Distribution](images/crop_distribution.png)
+![Crop Distribution](https://github.com/Joe-in-absentia/Predicting_Crop_Production/blob/8cb13951dc8e1cb5d48a7c0bef3a87234f90c574/crop_distribution.png)
 
 ---
 
