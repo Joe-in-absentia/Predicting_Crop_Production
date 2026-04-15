@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
 ![Machine Learning](https://img.shields.io/badge/ML-Model-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![SQL](https://img.shields.io/badge/Database-SQL-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 Python • Streamlit • Machine Learning • SQL
 
