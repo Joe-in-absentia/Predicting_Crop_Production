@@ -41,6 +41,8 @@ The dashboard allows users to explore:
 
 **Models Used:**
 
+- Ridge Linear Model
+- Lasso Linear Model
 - Decision Tree Regressor  
 - Random Forest Regressor ✅  
 
