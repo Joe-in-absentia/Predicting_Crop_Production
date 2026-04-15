@@ -100,7 +100,7 @@ The dashboard allows users to explore:
 
 ### 🌍 Region-wise Production
 
-![Region-wise Production](images/region_production.png)
+![Region-wise Production](https://github.com/Joe-in-absentia/Predicting_Crop_Production/blob/273a4c53783b38c8db6c153b2234b82af33b8770/region_wise_analysis.png)
 
 ---
 
