@@ -112,7 +112,7 @@ The dashboard allows users to explore:
 
 ### ⚠️ Outliers & Anomalies
 
-![Outliers](images/outliers.png)
+![Outliers](https://github.com/Joe-in-absentia/Predicting_Crop_Production/blob/b9a35d6adcaf62c6ee4dadc4ff75a32927bf59ba/outliers.png)
 
 ---
 
