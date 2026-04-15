@@ -94,7 +94,7 @@ The dashboard allows users to explore:
 
 ### 🔮 Predicting Crop Production
 
-![Main Dashboard](images/main_dashboard.png)
+![Main Dashboard](https://github.com/Joe-in-absentia/Predicting_Crop_Production/blob/984a05895784ccfe44550fd135dc6321c5ae9d25/crop_prediction.png)
 
 ---
 
