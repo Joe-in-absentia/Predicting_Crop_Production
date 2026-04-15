@@ -20,8 +20,8 @@ The dashboard allows users to explore:
 
 • Crop production prediction  
 • Regional crop analysis  
-• Yield vs Area relationship  
-• Agricultural trend insights  
+• Crop Distribution Analysis  
+• Outliers & Anomalies   
 
 ---
 
@@ -90,7 +90,7 @@ The dashboard allows users to explore:
 
 ## 📊 Dashboard Screenshots
 
-### 🏠 Main Dashboard
+### 🔮 Predicting Crop Production
 
 ![Main Dashboard](images/main_dashboard.png)
 
@@ -102,7 +102,7 @@ The dashboard allows users to explore:
 
 ---
 
-### 🌱 Crop Distribution Analysis
+### 🌿 Crop Distribution Analysis
 
 ![Crop Distribution](images/crop_distribution.png)
 
